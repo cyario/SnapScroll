@@ -5,6 +5,7 @@ An Unity uGUI SnapScrollRect
 This allows you to easliy use SnapScroll on Unity uGUI
 
 ***DEMO:***
+
 ![snap-scroll](https://raw.githubusercontent.com/wiki/cyario/SnapScroll/images/snap-scroll.gif)
 
 ## Usage
