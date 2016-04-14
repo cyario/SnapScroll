@@ -16,6 +16,8 @@ This allows you to easliy use SnapScroll on Unity uGUI
 	
 ## Acknowledgment
 Thanks to this source code, I almost copied it.
+
+
 http://qiita.com/TakafumiFukuyo/items/9cb37044f388a81cd841
 
 
