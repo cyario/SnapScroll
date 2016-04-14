@@ -2,6 +2,7 @@
 
 ## Description
 An Unity uGUI SnapScrollRect
+
 This allows you to easliy use SnapScroll on Unity uGUI
 
 ***DEMO:***
@@ -15,5 +16,6 @@ This allows you to easliy use SnapScroll on Unity uGUI
 	
 ## Acknowledgment
 Thanks to this source code, I almost copied it.
+
 However there is no ScrollWeight property, I've added this feature :)
 http://qiita.com/TakafumiFukuyo/items/9cb37044f388a81cd841
